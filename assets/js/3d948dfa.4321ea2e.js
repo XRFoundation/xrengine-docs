@@ -1,1 +1,0 @@
-(self.webpackChunk_xrengine_docs=self.webpackChunk_xrengine_docs||[]).push([[87169],{66353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello","permalink":"/xrengine-docs/blog/hello-world"}]}')}}]);
