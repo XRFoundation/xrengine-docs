@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>xrengine Blog</title>
-        <link>https://xrfoundation.github.io/blog</link>
+        <link>https://xrfoundation.github.io/xrengine-docs/blog</link>
         <description>xrengine Blog</description>
         <lastBuildDate>Wed, 29 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
